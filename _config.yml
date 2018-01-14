@@ -1,7 +1,7 @@
 # Basic
 title: WWmore
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+subtitle: Blog
+description: Welcome to my blog~
 # 头像里面的标题
 avatarTitle: WWmore
 # 头像里面的描述
@@ -28,7 +28,7 @@ baidu:
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
 ga:
-    id: UA-112392965-1  
+    id: UA-112392965-1
     host: auto
 
 
