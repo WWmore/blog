@@ -5,11 +5,11 @@ title: About me
 
 
 <p>
-Keep on studing
+Keep on studing……
 <p>
-Love life
+Love life……
 <p>
-Explore the world
+Explore the world……
 
 <p>
 
