@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "atom push to github"
+title: ">atom push to github"
 date: 2018-01-14
 description: "解决 atom 编辑好如何上传push到github上"
 tag: github
