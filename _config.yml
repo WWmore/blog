@@ -54,7 +54,7 @@ cover_color: clear
 # The blog button should not be removed.
 blog_button:
     title: 博客主页
-    
+
 # Search
 search: true
 
