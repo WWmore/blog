@@ -54,12 +54,31 @@ cover_color: clear
 # The blog button should not be removed.
 blog_button:
     title: 博客主页
+    
+# Search
+search: true
 
 # Navigation buttons in the front page.s
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}
     - {title: 标签, description: tags, url: '/tags'}
     - {title: 关于我, description: about, url: '/about'}
+
+# Comments
+disqus: true
+disqus_url: 'https://WWmore.disqus.com/embed.js'
+
+# Tags 设置标签
+recommend-tags: true # whether or not display recommend-tags on the sidebar
+recommend-condition-size: 12 # a tag will be recommended if the size of it is more than this value
+
+
+ #SNS settings 配置社交网站url: weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
+sns:
+  weibo: '//weibo.com/huihui-blue'
+  zhihu: '//https://www.zhihu.com/people/wang-hui-hui-31-75/activities'
+  #douban: '//'
+  github: '//github.com/WWmore'
 
 
 # Pagination
