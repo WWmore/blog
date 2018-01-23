@@ -19,6 +19,9 @@ Explore the world……
 目前在学Matlab，Python，Rhino等
 <p>
 如果有想分享的东西，会留下纪念
+
+<p>
+
 <p>
 微博：<a target="_blank" href='https://weibo.com/u/2078014897/home?wvr=5'>huihui-blue</a>
 <p>
@@ -31,7 +34,7 @@ Explore the world……
 
 <p>
 
-<p>
+<p> 本博客内容为个人学习总结之地，采用<a target="_blank" href='https://creativecommons.org/licenses/by/3.0/cn/'>知识共享「署名 3.0 中国大陆」许可协议授权</a>，欢迎收藏，转发，分享，并注明作者WWmore及原链接地址。
 
 <p>
 
