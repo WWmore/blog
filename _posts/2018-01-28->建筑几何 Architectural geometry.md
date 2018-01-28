@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ">Chap15. 可展曲面和展开"
+title: ">建筑几何 Architectural geometry"
 date: 2018-01-28
 tag: Architectural geometry 建筑几何
 ---
