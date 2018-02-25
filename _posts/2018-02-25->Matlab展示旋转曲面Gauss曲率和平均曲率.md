@@ -22,8 +22,8 @@ $$ X(u,v)=\begin{array}{c@{}cc}
  1. 在$[0, 2\pi]\times[0, 2\pi]$范围内展示曲面X.
  2. 计算Gauss曲率和平均曲率，并在曲面上用颜色展示正(red)负(blue)零(green)曲率值.
 
-![](/images/posts/gp_homework/6Revolution surface.jng)
+![](/images/posts/gp_homework/6Revolution surface.jpg)
 
-![](/images/posts/gp_homework/6Gauss curvature.jng)
+![](/images/posts/gp_homework/6Gauss curvature.jpg)
 
-![](/images/posts/gp_homework/6Mean curvature.jng)
+![](/images/posts/gp_homework/6Mean curvature.jpng)
