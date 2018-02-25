@@ -26,4 +26,10 @@ $$ X(u,v)=\begin{array}{c@{}cc}
 
 ![](/images/posts/gp_homework/6Gauss curvature.jpg)
 
-![](/images/posts/gp_homework/6Mean curvature.jpng)
+![](/images/posts/gp_homework/6Mean curvature.jpg)
+
+\begin{center}
+\includegraphics[width=5.67cm]{images/posts/gp_homework/6Gauss curvature.jpg}\, \, \,
+\includegraphics[width=6cm]{images/posts/gp_homework/6Mean curvature.jpg}\\
+\centering{Fig. 3by3 mesh}
+\end{center}
