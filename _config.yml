@@ -66,7 +66,7 @@ recommend-condition-size: 12 # a tag will be recommended if the size of it is mo
 
  #SNS settings 配置社交网站url: weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: '//weibo.com/WWmore_H'
+  weibo: '//https://www.weibo.com/2078014897/profile?topnav=1&wvr=6'
   zhihu: '//https://www.zhihu.com/people/wang-hui-hui-31-75/activities'
   #douban: '//'
   github: '//github.com/WWmore'
