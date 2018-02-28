@@ -9,8 +9,8 @@ avatarDesc: 建筑几何 / Python
 url: "http://wwmore.github.io"
 
 # Comment
-#comment:
-    #disqus: WWmore
+comment:
+    disqus: WWmore
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
