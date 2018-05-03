@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ">Matlab展示旋转曲面Gauss曲率和平均曲率"
+title: "Matlab：展示旋转曲面Gauss曲率和平均曲率"
 date: 2018-02-25
 tag: GeometryProcessing 作业
 ---
