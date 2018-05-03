@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ">建筑几何 Architectural geometry"
+title: "建筑几何 Architectural geometry"
 date: 2018-01-28
 tag: Architectural geometry 建筑几何
 ---
