@@ -20,6 +20,7 @@ tag: Architectural geometry 建筑几何
  11. Handles 手柄
  12. Layers 层次
  13. Color, texture, and material 颜色，纹理，材质
+ 
 ![](/images/posts/AG/winton.png)
 
 ### 球、球面坐标、挤型曲面
