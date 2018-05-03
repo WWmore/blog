@@ -1,0 +1,31 @@
+---
+layout: post
+title: ">《建筑几何》Chapter 1：创建数字3D模型"
+date: 2018-05-02
+tag: Architectural geometry 建筑几何
+---
+
+### Winton Guest House建模
+
+ 1. Cartesian coordinates笛卡尔坐标
+ 2. Right- and left-handed coordinate system 右手/左右坐标系
+ 3. Cuboids 长方体
+ 4. Surface and solid models 曲面和实体模型
+ 5. Extrusion 挤型
+ 6. Global and local coordinate systems 全局和局部坐标系
+ 7. Polar coordinates 极坐标系
+ 8. Cylindrical coordinates 柱面坐标
+ 9. Rotational cylinder 旋转柱面
+ 10. Snapping 对齐
+ 11. Handles 手柄
+ 12. Layers 层次
+ 13. Color, texture, and material 颜色，纹理，材质
+![](/images/posts/AG/winton.png)
+
+### 球、球面坐标、挤型曲面
+
+ 1. Sphere 球
+ 2. Spherical coordinates 球面坐标
+ 3. Geographic coordinate system 地理坐标系
+ 4. Extrusion revisited: cylinder and cone surfaces 重新挤压：柱面和锥面
+ 5. Outlook 展望：ellipse，parabola，hyperbola
