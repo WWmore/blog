@@ -23,9 +23,10 @@ Explore the world……
 <p>
 
 <p>
-微博: <a target="_blank" href='https://weibo.com/u/2078014897/home?wvr=5'>huihui-blue</a>
+微博: <a target="_blank" href='https://www.weibo.com/2078014897/profile?topnav=1&wvr=6&is_all=1'>WWmore_H</a>
 <p>
-微信公众号：WWmore
+微信公众号：<a target="_blank"  src='/images/payimg/wechat.jpg'>WWmore  </a>
+  
 <p>
 知乎：<a target="_blank" href='https://www.zhihu.com/people/wang-hui-hui-31-75/activities'>WWmore</a>
 <p>
