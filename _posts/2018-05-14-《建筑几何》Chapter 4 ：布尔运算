@@ -1,0 +1,30 @@
+---
+layout: post
+title: "《建筑几何》Chapter 4：布尔运算"
+date: 2018-05-14
+tag: Architectural geometry 建筑几何
+---
+
+### Union, difference and intersection 并+差+交
+
+- The set that contains all points of set A and all points of set B, but nothing
+else, is called the union of A and B.
+- The intersection of A and B is defined as the set of all points that belong both
+to A and to B.
+- The difference of A and B contains only those points of A that do not lie in
+B. Analogously, the difference of B and A consists of points of B that are not
+contained in A.
+![](/images/posts/AG/boolean1.png)
+![](/images/posts/AG/boolean2.png)
+
+<figure class="half">
+  <img scr="/images/posts/AG/boolean1.png">
+  <img scr="/images/posts/AG/boolean2.png">
+</figure>
+
+### Trim and split 修剪+裂开
+
+- Boolean operations do not work when surfaces are involved
+- When it comes to modeling with surfaces, we use the techniques of trimming and
+splitting.
+
