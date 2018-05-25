@@ -10,7 +10,7 @@ tag: GeometryProcessing 作业
 
  ![](/images/posts/gp_homework/14head2-trimesh.jpg)
  ![](/images/posts/gp_homework/14head2-tutte-scatter.jpg)
- ![](/images/posts/gp_homework/14graph.jpg)
+ ![](/images/posts/gp_homework/14head2-graph.jpg)
  ![](/images/posts/gp_homework/14head.jpg)
  ![](/images/posts/gp_homework/14head-tutte embedding.jpg)
  ![](/images/posts/gp_homework/14head-tutte-scatter.jpg)
