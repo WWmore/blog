@@ -16,7 +16,7 @@ Explore the world……
 <h3> Personal Blog </h3>  
 
 <p>
-目前在学Matlab，Python，Rhino等
+目前在学/用Matlab，Python，Rhino，Blender等
 <p>
 如果有想分享的东西，会留下纪念
 
