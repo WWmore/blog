@@ -37,7 +37,7 @@ array([[ 1,  2,  3, 11, 21, 31],
        [ 4,  5,  6,  7,  8,  9]])
 ```       
 
-### 运行时间对比：concatenate效率最高
+### 数据量大时，运行时间对比：concatenate效率最高
 
 ```Python
 import numpy as np
@@ -71,4 +71,51 @@ c=np.hstack((a,b))
 time2=now()
 print time2-time1
 0.000101245950873
+```
+
+
+### 数据量小时，运行时间对比：hstack（（））效率最高
+```Python
+a=np.array([1,2,3])
+b=np.array([11,22,33])
+time1=now()
+c=np.vstack((a,b))
+time2=now()
+print time2-time1
+9.72643683781e-05
+
+```
+
+
+```Python
+a=np.array([1,2,3])
+b=np.array([11,22,33])
+time1=now()
+c=np.hstack((a,b))
+time2=now()
+print time2-time1
+7.90628491814e-05
+
+```
+
+```Python
+
+a=np.array([1,2,3])
+b=np.array([11,22,33])
+time1=now()
+c=np.concatenate((a,b))
+time2=now()
+print time2-time1
+8.13380390809e-05
+```
+
+```Python
+a=np.array([1,2,3])
+b=np.array([11,22,33])
+time1=now()
+c=np.concatenate((a,b)).reshape((-1,3))
+time2=now()
+print time2-time1
+0.000101245950873
+
 ```
