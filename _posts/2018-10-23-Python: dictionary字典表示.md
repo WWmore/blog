@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Python：Python:  dictionary字典表示"
-date: 2018-00-23
+title: "Python：dictionary字典表示"
+date: 2018-10-23
 tag: Python
 ---
 
