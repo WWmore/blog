@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python：Python: Counter查重办法"
+title: "Python： Counter、count查重办法"
 date: 2018-09-10
 tag: Python
 ---
