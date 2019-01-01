@@ -25,7 +25,6 @@ In the following, I list the impressive pictures I took during the travel to mem
 
  <img src="/images/posts/travel2018/amst1.jpg" height="300" width="400" >
 
- <img src="/images/posts/travel2018/amst2.JPG" height="300" width="400" >
 
  - Hague
 
