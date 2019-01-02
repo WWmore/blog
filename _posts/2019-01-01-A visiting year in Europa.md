@@ -23,6 +23,8 @@ In the following, I list the impressive pictures I took during the travel to mem
 
 - Amsterdam
 
+ <img src="/images/posts/travel2018/halls1.JPG" width = "50%" />
+
  <img src="/images/posts/travel2018/amst1.jpg" height="300" width="400" >
 
 
