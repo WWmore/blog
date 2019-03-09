@@ -16,8 +16,8 @@ In the following, I list the impressive pictures I took during the travel to mem
 ### Budapest 3.2018
 
 <div align="center">
-<img src="/images/posts/travel2018/budapest1.jpg" height="40%" width="40%" alt="bb" >
-<img src="/images/posts/travel2018/budapest2.JPG" height="40%" width="40%" alt="cc" >
+<img src="/images/posts/travel2018/budapest1.jpg" height="30%" width="30%" alt="bb" >
+<img src="/images/posts/travel2018/budapest2.JPG" height="30%" width="30%" alt="cc" >
 </div>
 
 ### Amsterdam、 Hague、Rotterdam、Antwerpen、Bruxelles 4.2018
@@ -134,8 +134,8 @@ In the following, I list the impressive pictures I took during the travel to mem
 - Gothenburg
 
 <div align="center">
-<img src="/images/posts/travel2018/gothenburg1.JPG" height="40%" width="40%" alt="aa" >
-<img src="/images/posts/travel2018/gothenburg2.JPG" height="40%" width="40%" alt="bb" >
+<img src="/images/posts/travel2018/gothenburg1.jpg" height="40%" width="40%" alt="aa" >
+<img src="/images/posts/travel2018/gothenburg2.jpg" height="40%" width="40%" alt="bb" >
 </div>
 
 
@@ -164,12 +164,12 @@ In the following, I list the impressive pictures I took during the travel to mem
 
 <div align="center">
 <img src="/images/posts/travel2018/wien1.png" height="40%" width="40%" alt="aa" >
-<img src="/images/posts/travel2018/wien3.png" height="40%" width="40%" alt="bb" >
+<img src="/images/posts/travel2018/wien3.JPG" height="40%" width="40%" alt="bb" >
 </div>
 
 <div align="center">
-<img src="/images/posts/travel2018/wien2.png" height="40%" width="40%" alt="aa" >
-<img src="/images/posts/travel2018/wien4.png" height="40%" width="40%" alt="bb" >
+<img src="/images/posts/travel2018/wien2.JPG" height="40%" width="40%" alt="aa" >
+<img src="/images/posts/travel2018/wien4.JPG" height="40%" width="40%" alt="bb" >
 </div>
 
 
