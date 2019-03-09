@@ -15,7 +15,7 @@ In the following, I list the impressive pictures I took during the travel to mem
 
 ### Budapest 3.2018
 
-<img src="/images/posts/travel2018/budapest1.jpg" height="300" width="400" >
+<img src="/images/posts/travel2018/budapest1.jpg" style="zoom:50%" >
 
 <img src="/images/posts/travel2018/budapest2.JPG" height="300" width="400" >
 
