@@ -5,7 +5,7 @@ description: Welcome to my blog~
 # 头像里面的标题
 avatarTitle: WWmore
 # 头像里面的描述
-avatarDesc: 建筑几何 / Python
+avatarDesc: Architectural Geometry
 url: "http://wwmore.github.io"
 
 # Comment
@@ -18,7 +18,7 @@ social:
     weibo: WWmore_H
     github: WWmore
     # twitter:
-    mail: i1103552872@gmail.com
+    mail: 1103552872@qq.com
 
 # 百度统计
 # 使用博客模板请去掉或者更换 id
@@ -47,7 +47,7 @@ blog_button:
     title: 博客主页
 
 # Search
-search: 
+search:
 
 # Navigation buttons in the front page.s
 nav:
