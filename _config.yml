@@ -3,13 +3,13 @@ title: WWmore
 subtitle: Blog
 description: Welcome to my blog~
 # 头像里面的标题
-avatarTitle: WWmore
+avatarTitle: Architectural Geometry
 # 头像里面的描述
 <<<<<<< HEAD
 avatarDesc: Architectural Geometry
 url: "http://wwmore.github.io"
 =======
-avatarDesc: 建筑几何 / Python
+avatarDesc: 建筑几何
 url: http://wwmore.github.io
 >>>>>>> c74a6dd7878d24e4a6b8dcab5c8a3befd4d7baf6
 
