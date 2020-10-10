@@ -5,8 +5,13 @@ description: Welcome to my blog~
 # 头像里面的标题
 avatarTitle: WWmore
 # 头像里面的描述
+<<<<<<< HEAD
 avatarDesc: Architectural Geometry
 url: "http://wwmore.github.io"
+=======
+avatarDesc: 建筑几何 / Python
+url: http://wwmore.github.io
+>>>>>>> c74a6dd7878d24e4a6b8dcab5c8a3befd4d7baf6
 
 # Comment
 comment:
