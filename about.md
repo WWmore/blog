@@ -28,8 +28,6 @@ Explore the world……
 微信公众号：<a target="_blank"  src='/images/payimg/wechat.jpg'>WWmore  </a>
 
 <p>
-知乎：<a target="_blank" href='https://www.zhihu.com/people/wang-hui-hui-31-75/activities'>WWmore</a>
-<p>
 
 博客搭建源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上.
 
