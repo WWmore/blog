@@ -53,7 +53,7 @@ search:
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/archive'}
+    - {title: 所有文章, description: archive, url: 'http://wwmore.github.io/blog/archive'}
     - {title: 标签, description: tags, url: '/tags'}
     - {title: 关于, description: about, url: '/about'}
 
