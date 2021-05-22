@@ -1,14 +1,14 @@
 # Basic
 title: WWmore
 subtitle: Blog
-description: Welcome to my blog~
+description: Welcome to my blog ~
 # 头像里面的标题
 avatarTitle: Architectural Geometry
 # 头像里面的描述
-avatarDesc: Architectural Geometry
-url: "http://wwmore.github.io/blog"
+avatarDesc: ArchGeo
+url: "http://wwmore.github.io/blogs"
 avatarDesc: 建筑几何
-url: http://wwmore.github.io/blog
+# url: http://wwmore.github.io/blogs
 
 # Comment
 #comment:
@@ -46,16 +46,18 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-   - {title: 主页, description: blog, url: 'http://wwmore.github.io/blog/blog'}
+    title: 主页
+   # - {title: 主页, description: blog, url: 'http://wwmore.github.io/blog/blogs'}
 
 # Search
 search:
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 文章, description: archive, url: 'http://wwmore.github.io/blog/archive'}
-    - {title: 标签, description: tags, url: 'http://wwmore.github.io/blog/tags'}
-    - {title: 关于, description: about, url: 'http://wwmore.github.io/blog/about'}
+    - {title: 主页, description: blog, url: 'http://wwmore.github.io/blogs/blog'}
+    - {title: 文章, description: archive, url: 'http://wwmore.github.io/blogs/archive'}
+    - {title: 标签, description: tags, url: 'http://wwmore.github.io/blogs/tags'}
+    - {title: 关于, description: about, url: 'http://wwmore.github.io/blogs/about'}
 
 # Comments
 #disqus:
