@@ -46,20 +46,20 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-   - {title: 主页, url: 'http://wwmore.github.io/blog'}
+   - {title: 主页, description: blog, url: 'http://wwmore.github.io/blog/blog'}
 
 # Search
 search:
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: 'http://wwmore.github.io/blog/archive'}
-    - {title: 标签, description: tags, url: '/tags'}
-    - {title: 关于, description: about, url: '/about'}
+    - {title: 文章, description: archive, url: 'http://wwmore.github.io/blog/archive'}
+    - {title: 标签, description: tags, url: 'http://wwmore.github.io/blog/tags'}
+    - {title: 关于, description: about, url: 'http://wwmore.github.io/blog/about'}
 
 # Comments
-disqus:
-disqus_url: 'https://WWmore.disqus.com/embed.js'
+#disqus:
+#disqus_url: 'https://WWmore.disqus.com/embed.js'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
