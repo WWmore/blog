@@ -46,7 +46,7 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: 主页
+    #title: 主页
    # - {title: 主页, description: blog, url: 'http://wwmore.github.io/blog/blogs'}
 
 # Search
@@ -54,7 +54,7 @@ search:
 
 # Navigation buttons in the front page.s
 nav:
-    #- {title: 主页, description: blog, url: 'http://wwmore.github.io/blogs/blog'}
+    - {title: 主页, description: blog, url: 'http://wwmore.github.io/blogs/blog'}
     - {title: 文章, description: archive, url: 'http://wwmore.github.io/blogs/archive'}
     - {title: 标签, description: tags, url: 'http://wwmore.github.io/blogs/tags'}
     - {title: 关于, description: about, url: 'http://wwmore.github.io/blogs/about'}
