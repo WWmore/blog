@@ -12,7 +12,7 @@ avatarDesc: 建筑几何
 
 # Comment
 comment:
-    disqus: WWmore
+    # disqus: WWmore
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
@@ -55,7 +55,7 @@ search:
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}
     - {title: 标签, description: tags, url: '/tags'}
-    - {title: 关于我, description: about, url: '/about'}
+    - {title: 关于, description: about, url: '/about'}
 
 # Comments
 disqus:
