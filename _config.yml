@@ -6,8 +6,10 @@ description: Welcome to my blog ~
 avatarTitle: Architectural Geometry
 # 头像里面的描述
 avatarDesc: ArchGeo
-url: http://wwmore.github.io/blogs
 avatarDesc: 建筑几何
+
+baseurl: "/blogs"
+url: ""
 # url: http://wwmore.github.io/blogs
 
 # Comment
