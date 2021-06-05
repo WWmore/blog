@@ -8,9 +8,7 @@ avatarTitle: Architectural Geometry
 avatarDesc: ArchGeo
 avatarDesc: 建筑几何
 
-baseurl: "/blogs"
-url: ""
-# url: http://wwmore.github.io/blogs
+url: "http://wwmore.github.io"
 
 # Comment
 #comment:
