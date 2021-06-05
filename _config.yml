@@ -5,14 +5,14 @@ description: Welcome to my blog~
 # 头像里面的标题
 avatarTitle: WWmore
 # 头像里面的描述
-avatarDesc: 建筑几何 / Pytho
+avatarDesc: 建筑几何
 baseurl: "/blogs"
 url: "https://wwmore.github.io"
 
 
 # Comment
-comment:
-    disqus: WWmore
+# comment:
+    # disqus: WWmore
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
@@ -58,8 +58,8 @@ nav:
     - {title: 关于我, description: about, url: '/about'}
 
 # Comments
-disqus:
-disqus_url: 'https://WWmore.disqus.com/embed.js'
+# disqus:
+# disqus_url: 'https://WWmore.disqus.com/embed.js'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
