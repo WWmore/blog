@@ -6,8 +6,8 @@ description: Welcome to my blog~
 avatarTitle: WWmore
 # 头像里面的描述
 avatarDesc: 建筑几何
-url: "https://wwmore.github.io/wwmore"
-baseurl: "/wwmore"
+url: "https://wwmore.github.io"
+# baseurl: "/wwmore"
 
 
 # Comment
